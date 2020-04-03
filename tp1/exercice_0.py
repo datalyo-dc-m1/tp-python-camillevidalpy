@@ -9,5 +9,5 @@ d -= 1
 print (d)
 print ("la variable d vaut", d)
 c_int = int(c)
-print (c)
+print (c) #type de la variable
 print (int_c)
